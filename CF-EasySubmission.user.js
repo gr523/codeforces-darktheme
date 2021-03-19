@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CfMod
+// @name         CF-EasySubmission
 // @author       Manush
 // @version      0.01
 // @description  Easy Codeforces Submission For Lazy guys
